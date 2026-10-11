@@ -1,0 +1,13 @@
+HostelOS Asset Information
+==========================
+
+This application is fully self-contained in index.html.
+All CSS, JavaScript, and HTML are bundled in a single file.
+
+External dependencies loaded via CDN (requires internet):
+- Google Fonts: https://fonts.googleapis.com
+  - Syne (headings)
+  - DM Sans (body text)
+
+No other external dependencies required.
+The app works offline except for font loading.
